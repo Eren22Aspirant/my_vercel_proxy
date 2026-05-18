@@ -1,0 +1,10 @@
+{
+  "name": "gemini-proxy-server",
+  "version": "1.0.0",
+  "description": "Secure API Proxy for Gemini",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
